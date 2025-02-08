@@ -23,3 +23,4 @@ scikit-learn              1.5.1
 pillow                    10.2.0
 ```
 # Schematic Diagram
+![Schematic Diagram](https://github.com/Monnish99/FusionToxNet/blob/main/Schematic%20diagram.png?raw=true)
